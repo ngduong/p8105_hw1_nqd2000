@@ -1,0 +1,14 @@
+---
+title: "p8105_hw1_nqd2000"
+author: "Ngoc Duong"
+date: "9/20/2019"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+
+
+```
